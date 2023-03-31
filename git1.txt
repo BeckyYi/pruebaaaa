@@ -1,4 +1,9 @@
 Holaaaa
+<<<<<<< HEAD
 (que tal esta es una modificacion hecha por Oscar Arriaza) 
 fecha de hoy 2023-03-31
 
+=======
+(que tal esta es una modificacion hecha por Oscar Arriaza)
+Este es un comentario del 31/03/2023 10:08
+>>>>>>> 8084a681b7ebbe0707a1725dd11ee3c97f8227fb
